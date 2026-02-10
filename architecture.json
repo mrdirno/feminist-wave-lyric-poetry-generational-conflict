@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_lyric_poetry_generational_conflict",
+  "title": "The Stolen Silence",
+  "tagline": "A daughter must find her own voice in the shadow of her mother's poetic wildfire.",
+  "target_words": 70000,
+  "actual_words": 66308,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inherited vs. Invented Voice",
+    "Artistic Legacy as Burden",
+    "The Violence of Literary Influence",
+    "Motherhood vs. Muse-hood"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Theft",
+      "words": 2763
+    },
+    {
+      "ch": 2,
+      "title": "The Weather System",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "Curator of Aftermath",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "The Gift of Journals",
+      "words": 2700
+    },
+    {
+      "ch": 5,
+      "title": "The Broken Spine",
+      "words": 2650
+    },
+    {
+      "ch": 6,
+      "title": "Cynthia's Luminous World",
+      "words": 2780
+    },
+    {
+      "ch": 7,
+      "title": "The Wildfire Manifesto",
+      "words": 2720
+    },
+    {
+      "ch": 8,
+      "title": "A Line of One's Own",
+      "words": 2680
+    },
+    {
+      "ch": 9,
+      "title": "The Sestina Incident",
+      "words": 2820
+    },
+    {
+      "ch": 10,
+      "title": "Father's Distant Melody",
+      "words": 2600
+    },
+    {
+      "ch": 11,
+      "title": "Workshop of Gestures",
+      "words": 2750
+    },
+    {
+      "ch": 12,
+      "title": "The Pulitzer Wound",
+      "words": 2770
+    },
+    {
+      "ch": 13,
+      "title": "Reading Anne Sexton at Seven",
+      "words": 2710
+    },
+    {
+      "ch": 14,
+      "title": "The Zippo's Potential Fire",
+      "words": 2690
+    },
+    {
+      "ch": 15,
+      "title": "Bill Collectors and Yaddo",
+      "words": 2630
+    },
+    {
+      "ch": 16,
+      "title": "Lilac Intrusion",
+      "words": 2660
+    },
+    {
+      "ch": 17,
+      "title": "The Nemesis Blooms",
+      "words": 2790
+    },
+    {
+      "ch": 18,
+      "title": "Not a Garden",
+      "words": 2740
+    },
+    {
+      "ch": 19,
+      "title": "The Fear of the B-Word",
+      "words": 2700
+    },
+    {
+      "ch": 20,
+      "title": "Existential Dread of Retail",
+      "words": 2650
+    },
+    {
+      "ch": 21,
+      "title": "The Territory of Silence",
+      "words": 2720
+    },
+    {
+      "ch": 22,
+      "title": "Hunger to Bite the World",
+      "words": 2780
+    },
+    {
+      "ch": 23,
+      "title": "Sharp Against the Light",
+      "words": 2760
+    },
+    {
+      "ch": 24,
+      "title": "The Unwritten Line",
+      "words": 2745
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a poem from Mara's perspective after she finally writes her first line. What does she steal, and what does she invent?",
+      "Create an interview transcript between Cynthia Albright and a literary magazine, where she addresses her rivalry with Althea years later.",
+      "Write a scene where Mara, as an adult poet, is asked to blurb a new 'confessional' poet's work. What does she say?",
+      "Compose Althea's journal entry from the day she decided to have a child. What did she hope for? What did she fear?"
+    ],
+    "technical": [
+      "Build a 'Poetic Inheritance' generator that mashes lines from famous confessional poets with user-input personal memories, exploring the tension between borrowed and original voice.",
+      "Create a visual narrative map tracing the 'weather system' of Althea's influence on Mara, using emotional temperature, literary allusions, and stolen objects as data points."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Sylvia Plath",
+      "Adrienne Rich",
+      "Maggie Nelson",
+      "Ocean Vuong"
+    ]
+  },
+  "cover_prompt": "A young woman stands defiantly in a rain-soaked, book-strewn study, her own handwritten pages clutched protectively to her chest while the ghostly, elegant script of her mother's famous poems swirls and tears around her like a violent, beautiful storm, illuminated only by the flickering light of a dying fireplace and the cold moonlight from a shattered window. In the atmospheric style of Remedios Varo meets contemporary poetic photography, blending magical realism with raw, emotional portraiture and textural depth where words become physical elements. A book cover framing with a centered, intimate composition, shot from a low angle to emphasize her resilience against the towering legacy. Chiaroscuro lighting with a stark contrast between warm amber embers and cold, ethereal blue moonlight, using a palette of deep indigo, burnt umber, ash gray, and flashes of poetic gold. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
